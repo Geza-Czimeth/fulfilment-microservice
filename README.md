@@ -37,4 +37,14 @@ Main class is FulfilmentMicroserviceApplication.
 Just run it as it is.
 
 ### Expected behaviour
+
 Loads 'Order' message from queue service and logs it. 
+
+
+### Testing
+
+Postman integration test file added to https://github.com/Geza-Czimeth/order-microservice
+
+### Logging
+
+The logger logs to console for better visibility
