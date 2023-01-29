@@ -9,7 +9,7 @@ Check for its configuration with http://localhost:8888/fulfilment-service/defaul
 
 ### RabbitMQ setup with docker
 
-Connect to RabbitMQ just like the other microservices in the system, the RabbitMQ only need to be started up once.
+Connects to RabbitMQ just like the other microservices in the system, the RabbitMQ only need to be started up once.
 <pre>
 The following docker command used to start rabbitmq.
 
